@@ -1,0 +1,15 @@
+{
+	"name": "df-spotifyazureproject29",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "44ffe9e4-249b-42d7-9b17-37e3ac209535",
+		"tenantId": "6b736238-e666-493f-b0e3-05903d8f30cb"
+	}
+}
